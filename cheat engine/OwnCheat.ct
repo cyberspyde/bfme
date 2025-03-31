@@ -1,0 +1,1237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CheatTable CheatEngineTableVersion="46">
+  <CheatEntries>
+    <CheatEntry>
+      <ID>54</ID>
+      <Description>"Pul"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>6</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>7</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>694</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>8</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>9</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F4C6C8</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>1C</Offset>
+            <Offset>178</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>10</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>B0</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>11</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>694</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>12</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>6A0</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>694</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>13</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>BC</Offset>
+            <Offset>10</Offset>
+            <Offset>290</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>14</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>F9C</Offset>
+            <Offset>1DC</Offset>
+            <Offset>6A0</Offset>
+            <Offset>10</Offset>
+            <Offset>290</Offset>
+            <Offset>B0</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>15</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E4</Offset>
+            <Offset>6A0</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>17</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1EC</Offset>
+            <Offset>10</Offset>
+            <Offset>290</Offset>
+            <Offset>B0</Offset>
+            <Offset>694</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>18</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F4C6C8</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E4</Offset>
+            <Offset>B0</Offset>
+            <Offset>1C</Offset>
+            <Offset>178</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>19</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E0</Offset>
+            <Offset>B0</Offset>
+            <Offset>694</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>20</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E0</Offset>
+            <Offset>BC</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>22</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F0B88C</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E0</Offset>
+            <Offset>14</Offset>
+            <Offset>18</Offset>
+            <Offset>30</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>23</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F0B894</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E0</Offset>
+            <Offset>14</Offset>
+            <Offset>18</Offset>
+            <Offset>30</Offset>
+            <Offset>C</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>24</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF190</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E0</Offset>
+            <Offset>14</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>25</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F4C6C8</Address>
+          <Offsets>
+            <Offset>C8C</Offset>
+            <Offset>1FC</Offset>
+            <Offset>10</Offset>
+            <Offset>290</Offset>
+            <Offset>18</Offset>
+            <Offset>178</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>26</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>C8C</Offset>
+            <Offset>1FC</Offset>
+            <Offset>18</Offset>
+            <Offset>18</Offset>
+            <Offset>290</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>27</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F0B534</Address>
+          <Offsets>
+            <Offset>C98</Offset>
+            <Offset>1E0</Offset>
+            <Offset>14</Offset>
+            <Offset>18</Offset>
+            <Offset>60</Offset>
+            <Offset>C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>28</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>368</Offset>
+            <Offset>10</Offset>
+            <Offset>28C</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>694</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>29</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF079C</Address>
+          <Offsets>
+            <Offset>368</Offset>
+            <Offset>18</Offset>
+            <Offset>0</Offset>
+            <Offset>4</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>31</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF079C</Address>
+          <Offsets>
+            <Offset>368</Offset>
+            <Offset>18</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>694</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>32</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>368</Offset>
+            <Offset>18</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>35</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>58</Offset>
+            <Offset>1C</Offset>
+            <Offset>1C</Offset>
+            <Offset>290</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>36</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>58</Offset>
+            <Offset>10</Offset>
+            <Offset>290</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>39</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>58</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>B0</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>43</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>58</Offset>
+            <Offset>18</Offset>
+            <Offset>0</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>694</Offset>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>45</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>58</Offset>
+            <Offset>18</Offset>
+            <Offset>0</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>B0</Offset>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>53</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>4C</Offset>
+            <Offset>694</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>28</Offset>
+            <Offset>590</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>109</ID>
+      <Description>"CommandPoint"</Description>
+      <Options moHideChildren="1" moRecursiveSetValue="1" moActivateChildrenAsWell="1" moDeactivateChildrenAsWell="1"/>
+      <GroupHeader>1</GroupHeader>
+      <CheatEntries>
+        <CheatEntry>
+          <ID>59</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>44</Offset>
+            <Offset>C</Offset>
+            <Offset>29C</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>B0</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>61</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF0898</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>190</Offset>
+            <Offset>108</Offset>
+            <Offset>88</Offset>
+            <Offset>158</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>64</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>288</Offset>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>65</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>4EC</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>66</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>8</Offset>
+            <Offset>C</Offset>
+            <Offset>328</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>67</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED5F0</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>20</Offset>
+            <Offset>178</Offset>
+            <Offset>8</Offset>
+            <Offset>0</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>68</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>288</Offset>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>69</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>6A0</Offset>
+            <Offset>10</Offset>
+            <Offset>290</Offset>
+            <Offset>694</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>71</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF079C</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>230</Offset>
+            <Offset>694</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>73</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>554</Offset>
+            <Offset>70</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>74</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>18</Offset>
+            <Offset>3B4</Offset>
+            <Offset>84</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>75</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>228</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>76</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>28</Offset>
+            <Offset>264</Offset>
+            <Offset>74</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>77</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>B0</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>18</Offset>
+            <Offset>10</Offset>
+            <Offset>88</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>78</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>18</Offset>
+            <Offset>18</Offset>
+            <Offset>28C</Offset>
+            <Offset>C</Offset>
+            <Offset>220</Offset>
+            <Offset>1C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>80</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>1C</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>B0</Offset>
+            <Offset>694</Offset>
+            <Offset>C</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>81</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>10</Offset>
+            <Offset>59C</Offset>
+            <Offset>8</Offset>
+            <Offset>290</Offset>
+            <Offset>694</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>82</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>18</Offset>
+            <Offset>18</Offset>
+            <Offset>28C</Offset>
+            <Offset>AC</Offset>
+            <Offset>4E8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>83</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>18</Offset>
+            <Offset>18</Offset>
+            <Offset>298</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>18</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>84</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF079C</Address>
+          <Offsets>
+            <Offset>354</Offset>
+            <Offset>1C</Offset>
+            <Offset>1C</Offset>
+            <Offset>28C</Offset>
+            <Offset>B0</Offset>
+            <Offset>14</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>85</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>9C</Offset>
+            <Offset>4F8</Offset>
+            <Offset>298</Offset>
+            <Offset>38C</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>86</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>9C</Offset>
+            <Offset>C</Offset>
+            <Offset>328</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>87</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>9C</Offset>
+            <Offset>C</Offset>
+            <Offset>328</Offset>
+            <Offset>C</Offset>
+            <Offset>318</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>88</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>9C</Offset>
+            <Offset>C</Offset>
+            <Offset>338</Offset>
+            <Offset>298</Offset>
+            <Offset>38C</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>89</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>9C</Offset>
+            <Offset>C</Offset>
+            <Offset>8</Offset>
+            <Offset>328</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>90</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EED748</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>230</Offset>
+            <Offset>B0</Offset>
+            <Offset>20</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>91</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF0898</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>8</Offset>
+            <Offset>4</Offset>
+            <Offset>23C</Offset>
+            <Offset>8</Offset>
+            <Offset>804</Offset>
+            <Offset>B4</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>95</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>44</Offset>
+            <Offset>C</Offset>
+            <Offset>290</Offset>
+            <Offset>AC</Offset>
+            <Offset>328</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>96</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00F4C6C8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>328</Offset>
+            <Offset>8</Offset>
+            <Offset>F8</Offset>
+            <Offset>0</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>97</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>4E8</Offset>
+            <Offset>C</Offset>
+            <Offset>318</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>98</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>9C</Offset>
+            <Offset>C</Offset>
+            <Offset>4E8</Offset>
+            <Offset>8</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>99</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>B0</Offset>
+            <Offset>328</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>100</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EEF1D8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>694</Offset>
+            <Offset>B0</Offset>
+            <Offset>B0</Offset>
+            <Offset>4EC</Offset>
+            <Offset>10</Offset>
+            <Offset>24</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>101</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>14</Offset>
+            <Offset>14</Offset>
+            <Offset>18</Offset>
+            <Offset>3A0</Offset>
+            <Offset>84</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>102</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+            <Offset>10</Offset>
+            <Offset>28</Offset>
+            <Offset>28C</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>103</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+            <Offset>10</Offset>
+            <Offset>18</Offset>
+            <Offset>DC</Offset>
+            <Offset>88</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>104</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>10</Offset>
+            <Offset>10</Offset>
+            <Offset>8</Offset>
+            <Offset>2A0</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>105</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>18</Offset>
+            <Offset>5D8</Offset>
+            <Offset>84</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>106</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>8</Offset>
+            <Offset>8</Offset>
+            <Offset>2B4</Offset>
+            <Offset>78</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>107</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>14</Offset>
+            <Offset>14</Offset>
+            <Offset>28</Offset>
+            <Offset>2B4</Offset>
+            <Offset>74</Offset>
+          </Offsets>
+        </CheatEntry>
+        <CheatEntry>
+          <ID>108</ID>
+          <Description>"pointerscan result"</Description>
+          <VariableType>4 Bytes</VariableType>
+          <Address>"lotrbfme.exe"+00EF19E8</Address>
+          <Offsets>
+            <Offset>38</Offset>
+            <Offset>0</Offset>
+            <Offset>14</Offset>
+            <Offset>14</Offset>
+            <Offset>18</Offset>
+            <Offset>9C</Offset>
+            <Offset>88</Offset>
+          </Offsets>
+        </CheatEntry>
+      </CheatEntries>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>113</ID>
+      <Description>"FreezeBuildingPercent"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>{ Game   : lotrbfme.exe
+  Version: 
+  Date   : 2025-03-14
+  Author : cyberspyde
+
+  This script does blah blah blah
+}
+
+[ENABLE]
+
+aobscanmodule(Building,lotrbfme.exe,D9 9F 20 02 00 00) // should be unique
+alloc(newmem,$1000)
+
+label(code)
+label(return)
+
+newmem:
+
+code:
+  nop
+  jmp return
+
+Building:
+  jmp newmem
+  nop
+return:
+registersymbol(Building)
+
+[DISABLE]
+
+Building:
+  db D9 9F 20 02 00 00
+
+unregistersymbol(Building)
+dealloc(newmem)
+
+{
+// ORIGINAL CODE - INJECTION POINT: lotrbfme.exe+2B9499
+
+lotrbfme.exe+2B9471: 89 44 24 30        - mov [esp+30],eax
+lotrbfme.exe+2B9475: DB 44 24 30        - fild dword ptr [esp+30]
+lotrbfme.exe+2B9479: 8B AF 00 02 00 00  - mov ebp,[edi+00000200]
+lotrbfme.exe+2B947F: 6A 00              - push 00
+lotrbfme.exe+2B9481: D9 5C 24 34        - fstp dword ptr [esp+34]
+lotrbfme.exe+2B9485: 8B CD              - mov ecx,ebp
+lotrbfme.exe+2B9487: D9 05 C4 FA 07 01  - fld dword ptr ["lotrbfme.`StringBase&lt;unsigned short&gt;::str'::`2'::TheNullChr"+C238]
+lotrbfme.exe+2B948D: D8 74 24 34        - fdiv dword ptr [esp+34]
+lotrbfme.exe+2B9491: D9 87 20 02 00 00  - fld dword ptr [edi+00000220]
+lotrbfme.exe+2B9497: D8 C1              - fadd st(0),st(1)
+// ---------- INJECTING HERE ----------
+lotrbfme.exe+2B9499: D9 9F 20 02 00 00  - fstp dword ptr [edi+00000220]
+// ---------- DONE INJECTING  ----------
+lotrbfme.exe+2B949F: 8B 5D 00           - mov ebx,[ebp+00]
+lotrbfme.exe+2B94A2: DD D8              - fstp st(0)
+lotrbfme.exe+2B94A4: FF 53 18           - call dword ptr [ebx+18]
+lotrbfme.exe+2B94A7: D8 74 24 34        - fdiv dword ptr [esp+34]
+lotrbfme.exe+2B94AB: 51                 - push ecx
+lotrbfme.exe+2B94AC: 8B CD              - mov ecx,ebp
+lotrbfme.exe+2B94AE: D9 1C 24           - fstp dword ptr [esp]
+lotrbfme.exe+2B94B1: FF 93 80 00 00 00  - call dword ptr [ebx+00000080]
+lotrbfme.exe+2B94B7: 8B 47 78           - mov eax,[edi+78]
+lotrbfme.exe+2B94BA: 85 C0              - test eax,eax
+}
+</AssemblerScript>
+    </CheatEntry>
+    <CheatEntry>
+      <ID>118</ID>
+      <Description>"Instant Build"</Description>
+      <VariableType>Auto Assembler Script</VariableType>
+      <AssemblerScript>{ Game   : lotrbfme.exe
+  Version:
+  Date   : 2025-03-17
+  Author : cyberspyde
+  This script makes building construction instant by setting progress to 100% when building starts
+}
+[ENABLE]
+aobscanmodule(INJECT,lotrbfme.exe,D9 9F 20 02 00 00) // should be unique
+alloc(newmem,$1000)
+label(code)
+label(return)
+
+newmem:
+code:
+  // Check if building counter is just starting (very small value)
+  fld dword ptr [edi+00000220]
+  fldz
+  fcomip st(0), st(1)
+  fstp st(0)
+  jbe setTo100  // If current value is close to 0, set to 100
+
+  // Normal instruction
+  fstp dword ptr [edi+00000220]
+  jmp return
+
+setTo100:
+  // Pop the current value off the stack
+  fstp st(0)
+  // Push 100.0 onto the stack
+  mov eax, 0x42C80000  // 100.0 in floating point
+  push eax
+  fld dword ptr [esp]
+  add esp, 4
+  // Store 100.0 in the progress variable
+  fstp dword ptr [edi+00000220]
+  jmp return
+
+INJECT:
+  jmp newmem
+  nop
+return:
+registersymbol(INJECT)
+
+[DISABLE]
+INJECT:
+  db D9 9F 20 02 00 00
+unregistersymbol(INJECT)
+dealloc(newmem)
+</AssemblerScript>
+    </CheatEntry>
+  </CheatEntries>
+  <CheatCodes>
+    <CodeEntry>
+      <Description>Building :fstp dword ptr [edi+00000220]</Description>
+      <AddressString>lotrbfme.exe+2B9499</AddressString>
+      <Before>
+        <Byte>02</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+        <Byte>D8</Byte>
+        <Byte>C1</Byte>
+      </Before>
+      <Actual>
+        <Byte>D9</Byte>
+        <Byte>9F</Byte>
+        <Byte>20</Byte>
+        <Byte>02</Byte>
+        <Byte>00</Byte>
+        <Byte>00</Byte>
+      </Actual>
+      <After>
+        <Byte>8B</Byte>
+        <Byte>5D</Byte>
+        <Byte>00</Byte>
+        <Byte>DD</Byte>
+        <Byte>D8</Byte>
+      </After>
+    </CodeEntry>
+    <CodeEntry>
+      <Description>Code :mov eax,[esp+04]</Description>
+      <AddressString>lotrbfme.exe+C7DA0</AddressString>
+      <Before>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+        <Byte>CC</Byte>
+      </Before>
+      <Actual>
+        <Byte>8B</Byte>
+        <Byte>44</Byte>
+        <Byte>24</Byte>
+        <Byte>04</Byte>
+      </Actual>
+      <After>
+        <Byte>56</Byte>
+        <Byte>50</Byte>
+        <Byte>8B</Byte>
+        <Byte>F1</Byte>
+        <Byte>E8</Byte>
+      </After>
+    </CodeEntry>
+  </CheatCodes>
+  <UserdefinedSymbols/>
+</CheatTable>

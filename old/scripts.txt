@@ -1,0 +1,2 @@
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+g++ client.cpp -o client.exe -lpsapi -lws2_32 -static
