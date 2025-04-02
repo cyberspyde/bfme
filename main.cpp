@@ -2,7 +2,7 @@
 #include <iostream>
 
 int main() {
-    std::string serverAddress = "10.147.17.22"; // Replace with actual server address
+    std::string serverAddress = "26.242.87.42"; // Replace with actual server address
     int port = 8080; // Replace with actual port
 
     // Create a Client instance

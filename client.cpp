@@ -1,5 +1,7 @@
 #include <winsock2.h>
 #include "client.h"
+#include "modify.h"
+#include <TlHelp32.h>
 #include "MemoryScanner.h"
 #include <iostream>
 #include <sstream>
@@ -84,12 +86,33 @@ void Client::ModifyValue(int index, DWORD newValue) {
         std::cerr << "Invalid address index.\n";
         return;
     }
-    std::cout << "Modifying address 0x" << std::hex << memoryAddresses[index].first
-              << " to value " << std::dec << newValue << "\n";
-    // Send modify command to the server
-    std::ostringstream command;
-    command << "MODIFY " << index << " " << newValue;
-    // Send command to server (implement WebSocket send logic)
+    
+    DWORD_PTR address = memoryAddresses[index].first;
+    DWORD oldValue = memoryAddresses[index].second;
+    
+    std::cout << "Modifying address 0x" << std::hex << address
+              << " from value " << std::dec << oldValue 
+              << " to value " << newValue << "\n";
+    
+    // Get process handle
+    HANDLE processHandle = GetProcessHandle("lotrbfme.exe");
+    if (processHandle == NULL) {
+        std::cerr << "Failed to open process!\n";
+        return;
+    }
+    
+    // Write the new value to memory
+    SIZE_T bytesWritten = 0;
+    if (WriteProcessMemory(processHandle, reinterpret_cast<LPVOID>(address), &newValue, sizeof(newValue), &bytesWritten)) {
+        // Update our local copy of the value
+        memoryAddresses[index].second = newValue;
+        std::cout << "Memory successfully modified! Bytes written: " << bytesWritten << "\n";
+    } else {
+        std::cerr << "Failed to write to memory! Error: " << GetLastError() << "\n";
+    }
+    
+    // Close the process handle
+    CloseHandle(processHandle);
 }
 
 void Client::Run() {

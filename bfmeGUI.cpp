@@ -449,11 +449,18 @@ LRESULT CALLBACK WindowProc(HWND hwnd, UINT uMsg, WPARAM wParam, LPARAM lParam) 
             other();
         }
 
-        // Handle "Modify" button click
         if (buttonId == 9999) {
+            // Get the new value from the edit control
+            char newValueStr[32] = {0};
+            GetWindowTextA(hEditValue, newValueStr, sizeof(newValueStr));
+            DWORD newValue = std::atoi(newValueStr);
+            
+            // Modify the value locally
             ModifyValue(hwnd, selectedAddressIndex, guiResults, hEditValue);
+            
+            // Send command to clients with the new value
             std::ostringstream command;
-            command << "MODIFY " << selectedAddressIndex;
+            command << "MODIFY " << selectedAddressIndex << " " << newValue;
             std::string commandStr = command.str();
             sendCommandToClients(commandStr);
         }
